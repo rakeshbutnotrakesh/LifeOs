@@ -1,0 +1,6 @@
+{
+  "name": "LifeOS",
+  "description": "Organize Your Life. Own Your Time. Personal life management workspace with tasks, study tracker, personal finances, habits, goals, notes, and productivity analytics.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
